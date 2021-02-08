@@ -18,3 +18,6 @@ This Shortcut checks Etherscan for the current gas tracker estimates, then reads
 
 ## Disclaimer
 I provide no guarantees or support for this Shortcut. Use at your own risk.
+
+## Credit
+Created by [@nnnnicholas](https://twitter.com/nnnnicholas) on 2021-02-07.

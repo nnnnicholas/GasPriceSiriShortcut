@@ -14,7 +14,7 @@
 1. Say "Hey Siri, Get Gas Price."
 
 ## Is it safe?
-Yes, this is a safe Shortcut. This Shortcut checks Etherscan for the current gas tracker estimates, then reads the text aloud with Siri. No data is sent to a server beyond the get request sent to Etherscan's gas tracker API. I encourage you to read the code yourself. 
+This Shortcut checks Etherscan for the current gas tracker estimates, then reads the text aloud with Siri. No data is sent to a server beyond the get request sent to Etherscan's gas tracker API. I encourage you to read the code yourself. 
 
 ## Disclaimer
 I provide no guarantees or support for this Shortcut. Use at your own risk.

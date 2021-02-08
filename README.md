@@ -3,7 +3,10 @@ A Siri Shortcuts App shortcut for checking the price of Ethereum gas.
 
 ## Installation
 1. Prerequisite: To install a Shortcut, iOS requires that you run any iOS Shortcut once.
-2. Go to Settings > Shortcuts and "Allow Untrusted Shortcuts." ![screenshot](https://i.imgur.com/eEesJSk.png)
+2. Go to Settings > Shortcuts and "Allow Untrusted Shortcuts."
+
+<img src="https://i.imgur.com/eEesJSk.png" width=250></img>
+
 3. Install the shortcut via https://www.icloud.com/shortcuts/01d89ce15dfd4db2a17bf1e91f39681d
 4. Enter your [Etherscan API Key](https://etherscan.io/myapikey) to make requests up to 5 times per second, or leave it blank to make maxiumum one request per five seconds.
 
@@ -14,4 +17,4 @@ A Siri Shortcuts App shortcut for checking the price of Ethereum gas.
 Yes, this is a safe Shortcut. This Shortcut checks Etherscan for the current gas tracker estimates, then reads the text aloud with Siri. No data is sent to a server beyond the get request sent to Etherscan's gas tracker API. I encourage you to read the code yourself. 
 
 ## Disclaimer
-I provide no guarantees or support for this Shortcut. Use at your own risk. 
+I provide no guarantees or support for this Shortcut. Use at your own risk.

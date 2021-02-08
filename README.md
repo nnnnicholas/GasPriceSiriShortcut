@@ -1,5 +1,5 @@
 # Ethereum Gas Price Tracker iOS Siri Shortcut
-"Hey Siri, what's the gas price?" A Siri Shortcut for checking the Ethereum gas price.
+"Hey Siri, get gas price?" A Siri Shortcut for checking the Ethereum gas price.
 
 ## Installation
 1. Prerequisite: To install a Shortcut, iOS requires that you run any iOS Shortcut once.
